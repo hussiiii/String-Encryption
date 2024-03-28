@@ -1,0 +1,1 @@
+This project just provides the raw C++ encryption and decryption algorithms (ordinary.cpp and unordinary.cpp, respectively). You can run/use them however you'd like. Eventually I plan on creating a simple webapp to host this on
